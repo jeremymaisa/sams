@@ -10,7 +10,11 @@
 </head>
 <body>
 <header class="topbar">
-  <div class="brand">📊 SAMS</div>
+  <div class="logo">
+    <a class="brand" href="<?= BASE_URL ?>/index.php">
+      <img src="<?= BASE_URL ?>/assets/img/logo.png" alt="SAMS logo" class="logo" alt="" height="50px"> SAMS
+    </a>
+  </div>
   <?php if ($role): ?>
   <nav>
     <?php if ($role === 'admin'): ?>
