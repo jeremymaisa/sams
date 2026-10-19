@@ -10,7 +10,6 @@ attendance, and performance charts.
 4. Garbo, Johnpaul B.
 5. Balderamos, Gerald D.
 6. Villar, Emmalyn D.
-7. Morfe, Riczhie Kyreme M.
 8. Bayongan, Keth Lee Mark B.
 
 ## Setup (XAMPP)
