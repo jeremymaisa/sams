@@ -12,14 +12,6 @@ attendance, and performance charts.
 6. Villar, Emmalyn D.
 8. Bayongan, Keth Lee Mark B.
 
-## Setup (XAMPP)
-1. Unzip and copy the `sams` folder into `C:\xampp\htdocs\` (so you have `C:\xampp\htdocs\sams`).
-2. Start **Apache** and **MySQL** in the XAMPP Control Panel.
-3. Open http://localhost/phpmyadmin -> **Import** -> choose `sams/sql/schema.sql` -> Go.
-4. If your MySQL has a password, edit `config/db.php`.
-5. If you rename the folder, edit `BASE_URL` in `includes/auth.php` (default `/sams`).
-6. Open http://localhost/sams/
-
 ## Demo accounts (password for all: password123)
 | Username  | Role    |
 |-----------|---------|
